@@ -1,26 +1,27 @@
-### Translations
-Heya! here is some information about how you can make a translation or modify an existing translation!
+###翻译
+嘿呀！这里有一些关于如何翻译或修改现有翻译的信息！
 
-I also want to thank everyone who made a translation for this mod! This makes the mod more accessible for everyone.
+我也要感谢每一个为这个mod做翻译的人！这使得每个人都更容易接触到mod。
 
-Things to know:
+需要知道的事情:
 - The "%number%" are placeholders, The number indicates what it needs to be replaced with.
-- funny things are allowed, as long as they don't make the mod less accessible or cluttered!
+-有趣的事情是允许的，只要他们不使mod变得不容易接近或者混乱！
 
-#### Want to make a translation?
-1. Make a fork of the mod
-2. Go [here](https://minecraft.wiki/w/Language) and pick the in-game locale code for the language you want to translate
-3. Copy `en_us.json` and paste it in a new file called `[in-game locale code here].json`
-4. Translate the values in the file
-5. Submit a pull request with your translation :D!
+####想做个翻译？
+1.制作mod的分叉
+2.去[这里](https://minecraft.wiki/w/Language)并为您想要翻译的语言选择游戏中的地区代码
+3.复制`en_us.json`并将它粘贴到一个名为`[游戏中的地区代码在这里]。json`
+4.翻译文件中的值
+5.提交一个拉请求与您的翻译:D！
 
-#### Want to improve an existing translation?
-1. Make a fork of the mod
-2. Modify the existing translation in the mod
-3. Submit a pull request with your changes :D!
+####想要改进现有的翻译吗？
+1.制作mod的分叉
+2.修改mod中的现有翻译
+3.提交包含您的更改的拉式请求:D！
 
 
-#### Credits
-- English (en_us): [Mr. Snowy](https://github.com/MrSn0wy)
-- Dutch (nl_nl): [Mr. Snowy](https://github.com/MrSn0wy)
-- Hungarian (hu_hu): [Martin Morningstar](https://github.com/RMI637)
+####信用
+-英语(美国):[白雪先生](https://github.com/MrSn0wy)
+-荷兰语(nl_nl):[白雪先生](https://github.com/MrSn0wy)
+-匈牙利语(hu_hu):[马丁·晨星](https://github.com/RMI637)
+-中国(中国):[小彬520](https://github.com/xiaobin520)
